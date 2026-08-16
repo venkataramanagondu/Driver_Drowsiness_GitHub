@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+pygame
+geocoder
+scipy
+requests
+twilio
+python-dotenv

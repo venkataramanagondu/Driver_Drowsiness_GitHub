@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+vibration.wav
+face_landmarker.task
+.vscode/
