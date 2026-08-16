@@ -1,4 +1,4 @@
-# AI-based Driver Drowsiness Detection System
+# AI-Based Driver Drowsiness Detection System
 
 An AI-based driver drowsiness detection system that monitors the driver's eye state in real time and provides alerts when prolonged eye closure is detected.
 
